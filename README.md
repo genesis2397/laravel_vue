@@ -33,7 +33,7 @@
 ![alt text](https://i.imgur.com/ATDTtMD.png)
 
 - Profile Page
-![alt text](https://i.imgur.com/oaeYR8h.png)
+![alt text](https://i.imgur.com/NA3MGfH.png)
 
 - Video Streaming Module (Video.JS)
 ![alt text](https://i.imgur.com/D6OSDgi.png)

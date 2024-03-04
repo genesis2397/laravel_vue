@@ -21,7 +21,8 @@
 - ```php artisan config:clear```
 - You can now log in with user "john@example.com", default passwords will be setted as "Hello@123"
 
-
+## Screenshots
+![alt text](https://i.imgur.com/oaeYR8h.png)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)

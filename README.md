@@ -22,7 +22,22 @@
 - You can now log in with user "john@example.com", default passwords will be setted as "Hello@123"
 
 ## Screenshots
+
+- Login Page
+![alt text](https://i.imgur.com/zPFMKQa.png)
+
+- Dashboard Page
 ![alt text](https://i.imgur.com/oaeYR8h.png)
+
+- Product Page (CRUD Functionality)
+![alt text](https://i.imgur.com/ATDTtMD.png)
+
+- Profile Page
+![alt text](https://i.imgur.com/oaeYR8h.png)
+
+- Video Streaming Module (Video.JS)
+![alt text](https://i.imgur.com/D6OSDgi.png)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
